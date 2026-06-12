@@ -18,19 +18,19 @@ https://loan-approval-prediction-1-u1ga.onrender.com/
 
 ### Dashboard
 
-![Dashboard](src/screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Loan Prediction
 
-![Prediction](src/screenshots/predictor.png)
+![Prediction](screenshots/predictor.png)
 
 ### Analytics
 
-![Analytics](src/screenshots/analytics.png)
+![Analytics](screenshots/analytics.png)
 
 ### Model Performance
 
-![Model Performance](src/screenshots/model-performance.png)
+![Model Performance](screenshots/model-performance.png)
 
 ---
 
