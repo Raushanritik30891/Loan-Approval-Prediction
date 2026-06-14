@@ -1,13 +1,12 @@
 import axios from "axios";
 
-const API_BASE_URL = "https://loan-approval-prediction-1-u1ga.onrender.com";
+const BASE_URL = "https://loan-approval-prediction-1-u1ga.onrender.com";
 
 const api = axios.create({
   baseURL: BASE_URL,
   timeout: 15000,
   headers: { "Content-Type": "application/json" },
 });
-
 api.interceptors.response.use(
   (r) => r,
   (err) => {
